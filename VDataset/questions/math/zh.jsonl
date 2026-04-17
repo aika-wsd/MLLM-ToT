@@ -1,0 +1,60 @@
+{"sample_id": "math_1", "image": "images/973.jpg", "category": "math", "language": "zh", "question": "这个函数有多少个零点？", "answer": "1"}
+{"sample_id": "math_2", "image": "images/56.jpg", "category": "math", "language": "zh", "question": "这个长方形的周长是多少？", "answer": "6"}
+{"sample_id": "math_3", "image": "images/621.jpg", "category": "math", "language": "zh", "question": "上面的图形由25个全等且等边的微小三角形组成。如果三角形DFH的面积为10，那么三角形AFK的面积是多少？", "answer": "62.5"}
+{"sample_id": "math_4", "image": "images/627.jpg", "category": "math", "language": "zh", "question": "一些朋友玩了一场问答游戏并记录了他们的分数。这些数字的众数是多少？", "answer": "6"}
+{"sample_id": "math_5", "image": "images/606.jpg", "category": "math", "language": "zh", "question": "矩形的周长是多少？", "answer": "10"}
+{"sample_id": "math_6", "image": "images/942.jpg", "category": "math", "language": "zh", "question": "f(0) 的值是多少？", "answer": "0"}
+{"sample_id": "math_7", "image": "images/702.jpg", "category": "math", "language": "zh", "question": "第三周（给出一个大致的数值），“A组”的体重累计增加量（以克为单位）是多少？", "answer": "400"}
+{"sample_id": "math_8", "image": "images/455.jpg", "category": "math", "language": "zh", "question": "如果 x = 32 且 r = 18，那么图中所示弧的长度是多少？", "answer": "16*\\pi/5"}
+{"sample_id": "math_9", "image": "images/630.jpg", "category": "math", "language": "zh", "question": "在下图中，求∠MBD的大小。", "answer": "72"}
+{"sample_id": "math_10", "image": "images/391.jpg", "category": "math", "language": "zh", "question": "如图所示，点 O 是 ⊙O 的圆心，点 A、B、C 在 ⊙O 上，AO ∥ BC，∠AOB = 40.0，则 ∠OAC 的度数等于（ ）", "answer": "20°"}
+{"sample_id": "math_11", "image": "images/798.jpg", "category": "math", "language": "zh", "question": "在上图中，l || m。k + p + s 等于多少？", "answer": "180"}
+{"sample_id": "math_12", "image": "images/143.jpg", "category": "math", "language": "zh", "question": "如图所示，在平行四边形ABCD中，CE平分∠BCD，并与AD边交于点E，且DE=3.0，则AB的长度为（ ）", "answer": "3"}
+{"sample_id": "math_13", "image": "images/167.jpg", "category": "math", "language": "zh", "question": "这个函数最大的零点是多少？", "answer": "2"}
+{"sample_id": "math_14", "image": "images/886.jpg", "category": "math", "language": "zh", "question": "一家报纸调查了每个城镇有多少家杂货店。数字的中位数是多少？", "answer": "6"}
+{"sample_id": "math_15", "image": "images/144.jpg", "category": "math", "language": "zh", "question": "Natalie 买了 4.6 千克的姜黄。总费用是多少？（单位：$）", "answer": "13.8"}
+{"sample_id": "math_16", "image": "images/964.jpg", "category": "math", "language": "zh", "question": "移动尺子以测量该线的长度，精确到最近的厘米。该线大约有（_）厘米长。", "answer": "6"}
+{"sample_id": "math_17", "image": "images/831.jpg", "category": "math", "language": "zh", "question": "一位作者记录了她在过去3天里写了多少词。她在星期四和星期五一共写了多少词？（单位：词）", "answer": "679"}
+{"sample_id": "math_18", "image": "images/67.jpg", "category": "math", "language": "zh", "question": "这个正方形的周长是多少？", "answer": "16"}
+{"sample_id": "math_19", "image": "images/675.jpg", "category": "math", "language": "zh", "question": "如图所示，小型水库坝的横断面为直角梯形，坝顶BC宽度为6.0，坝高为14.0，边坡CD的坡度为 i = 1.0:2.0，则坝底AD的长度为（ ）", "answer": "34m"}
+{"sample_id": "math_20", "image": "images/316.jpg", "category": "math", "language": "zh", "question": "如图所示，已知点A、B、C在⊙O上，∠AOB = 100.0，则∠ACB的度数是（ ）", "answer": "50°"}
+{"sample_id": "math_21", "image": "images/599.jpg", "category": "math", "language": "zh", "question": "在上图中，AC = 6，且 BC = 3。点 P 位于直线 AB 上，在线段 AB 的 A 和 B 之间，使得直线 CP 与直线 AB 垂直。下列哪个选项可能是线段 CP 的长度？", "answer": "2"}
+{"sample_id": "math_22", "image": "images/87.jpg", "category": "math", "language": "zh", "question": "看着这张表。然后回答这个问题：在 790 美元的价格下，是短缺还是过剩？", "answer": "过剩"}
+{"sample_id": "math_23", "image": "images/434.jpg", "category": "math", "language": "zh", "question": "在上图中，三角形ABC的边AC位于直线l上。用k表示x是多少？", "answer": "60-k"}
+{"sample_id": "math_24", "image": "images/698.jpg", "category": "math", "language": "zh", "question": "在上图中的三角形里，x 的值是多少？", "answer": "2*\\sqrt{3}"}
+{"sample_id": "math_25", "image": "images/269.jpg", "category": "math", "language": "zh", "question": "如图所示，当热气球从空中A点观测该建筑顶部时，仰角为30.0°，该建筑的俯角为60.0°。热气球与该建筑之间的水平距离为120.0。该建筑的高度为（ ）", "answer": "160√{3}m"}
+{"sample_id": "math_26", "image": "images/806.jpg", "category": "math", "language": "zh", "question": "如图所示，AB是⊙O的直径，点C在⊙O上。如果∠A=40.0，那么∠B的度数为（ ）", "answer": "50°"}
+{"sample_id": "math_27", "image": "images/389.jpg", "category": "math", "language": "zh", "question": "看一下桌子。然后回答这个问题。价格为 320 美元时，是短缺还是过剩？", "answer": "短缺"}
+{"sample_id": "math_28", "image": "images/121.jpg", "category": "math", "language": "zh", "question": "在试着计算打包午餐能省下多少钱时，曼尼记录了他每天花在午餐上的金额。根据表格，星期三和星期四之间的变化率是多少？（单位：美元/天）", "answer": "5"}
+{"sample_id": "math_29", "image": "images/30.jpg", "category": "math", "language": "zh", "question": "如图所示，圆内两条弦 AB 和 CD 在点 E 处相交，∠D = 35.0，∠AEC = 105.0，则 ∠C =（ ）", "answer": "70°"}
+{"sample_id": "math_30", "image": "images/186.jpg", "category": "math", "language": "zh", "question": "如图所示，CD 是平面镜，光从点 A 发出，经点 E 在 CD 上反射后照射到点 B。若入射角为 α，且 AC ⊥ CD，BD ⊥ CD，垂足分别为 C、D，并且 AC = 3.0，BD = 6.0，CD = 10.0，则线段 ED 的长度为（ ）", "answer": "\\frac{20}{3}"}
+{"sample_id": "math_31", "image": "images/364.jpg", "category": "math", "language": "zh", "question": "如图所示，AB 是 ⊙O 的直径，点 C 和 D 在 ⊙O 上。如果 ∠ABD = 50.0，那么 ∠BCD 的度数是（ ）", "answer": "40°"}
+{"sample_id": "math_32", "image": "images/568.jpg", "category": "math", "language": "zh", "question": "在一个经济学项目中，科琳确定了自行车和汽车的渡轮票价。穆基尔蒂-克林顿渡轮上汽车的车费比南港-福特费舍尔渡轮上汽车的车费高多少？（单位：美元）", "answer": "2"}
+{"sample_id": "math_33", "image": "images/44.jpg", "category": "math", "language": "zh", "question": "Chase 想买 4 千克椭圆形珠子和 5 千克星形珠子。他一共要花多少钱？（单位：$）", "answer": "18"}
+{"sample_id": "math_34", "image": "images/329.jpg", "category": "math", "language": "zh", "question": "y 在 x=6 处的导数是 ____ 在 x=8 处的导数", "answer": "大于"}
+{"sample_id": "math_35", "image": "images/332.jpg", "category": "math", "language": "zh", "question": "一位出租车司机追踪了他每个月行驶了多少英里。1月和4月这位出租车司机一共行驶了多少英里？（单位：英里）", "answer": "7873"}
+{"sample_id": "math_36", "image": "images/679.jpg", "category": "math", "language": "zh", "question": "如图所示，在▱ABCD中，对角线AC与BD在点O处相交，若AC=12.0，BD=8.0，AB=7.0，则△OAB的周长为（ ）？", "answer": "17"}
+{"sample_id": "math_37", "image": "images/903.jpg", "category": "math", "language": "zh", "question": "如图所示，若∠ABC = 30.0，则∠AOC的度数为（ ）", "answer": "60°"}
+{"sample_id": "math_38", "image": "images/275.jpg", "category": "math", "language": "zh", "question": "如图所示，在Rt△ABC中，∠BAC = 90.0，AD ⊥ BC于D，DE ⊥ AB于E，AD = 3.0，DE = 2.0，则CD的长度为（ ）", "answer": "\\frac{3\\sqrt{5}}{2}"}
+{"sample_id": "math_39", "image": "images/102.jpg", "category": "math", "language": "zh", "question": "该图形由单位正方形组成。这个图形的面积是多少？", "answer": "6"}
+{"sample_id": "math_40", "image": "images/353.jpg", "category": "math", "language": "zh", "question": "在时间 $t=0$ 时，一个水箱中含有溶解在 100 加仑水里的 $Q_0\\ \\mathrm{lb}$ 盐；见图 2.3.1。假设含有每加仑 $\\frac{1}{4} \\mathrm{lb}$ 盐的水以速率 $r\\ \\mathrm{gal}/\\mathrm{min}$ 流入水箱，并且充分搅拌后的混合物以相同速率从水箱中排出。建立描述这一流动过程的初值问题。通过求出任意时间 $t$ 时水箱中的盐的数量 $Q(t)$，以及经过很长时间后存在的极限盐量 $Q_L$。如果 $r=3$ 且 $Q_0=2Q_L$，求盐量在 $Q_L$ 的 $2\\%$ 以内所经过的时间 $T$。", "answer": "130.4"}
+{"sample_id": "math_41", "image": "images/355.jpg", "category": "math", "language": "zh", "question": "如图所示，平行线a和b被直线c截得。若∠1 = 50.0，则∠2的度数为（ ）", "answer": "130°"}
+{"sample_id": "math_42", "image": "images/331.jpg", "category": "math", "language": "zh", "question": "几个人比较了他们访问过多少个网页。这些数字的平均值是多少？", "answer": "64"}
+{"sample_id": "math_43", "image": "images/746.jpg", "category": "math", "language": "zh", "question": "Zimmerman太太为孩子们举办了一年一度的艺术比赛，并记录每年参赛作品的数量。根据表格，2013年到2014年之间的变化率是多少？（单位：每年参赛作品数）", "answer": "7"}
+{"sample_id": "math_44", "image": "images/45.jpg", "category": "math", "language": "zh", "question": "机动车辆管理局（DMV）的管理员按月跟踪平均等待时间。根据表格，8月到9月之间的变化率是多少？（单位：每月分钟）", "answer": "-3"}
+{"sample_id": "math_45", "image": "images/164.jpg", "category": "math", "language": "zh", "question": "如图所示，在▱ABCD中，CE⊥AB，点E为垂足；若∠D=55.0，则∠BCE=（ ）", "answer": "35°"}
+{"sample_id": "math_46", "image": "images/220.jpg", "category": "math", "language": "zh", "question": "如图所示，⊙O为四边形ABCD的外接圆，若∠O=110.0，则∠C的度数为（ ）", "answer": "125°"}
+{"sample_id": "math_47", "image": "images/573.jpg", "category": "math", "language": "zh", "question": "一位赛车手记录了他在过去5天里一共驾驶了多少圈。他所记录的数字的众数是多少？", "answer": "53"}
+{"sample_id": "math_48", "image": "images/708.jpg", "category": "math", "language": "zh", "question": "如图所示，光源P在横杆AB的正上方，横杆AB在光线下的影子为CD，AB ∥ CD，AB = 2.0，CD = 5.0，点P与CD之间的距离为3.0，则AB与CD之间的距离为（）。", "answer": "\\frac{9}{5}"}
+{"sample_id": "math_49", "image": "images/999.jpg", "category": "math", "language": "zh", "question": "加速度向量\\(\\mathbf{a}\\)的大小为\\(10\\ \\mathrm{cm}/\\mathrm{s}^2\\)。使用图示估计\\(\\mathbf{a}\\)的切向分量。", "answer": "4.5"}
+{"sample_id": "math_50", "image": "images/762.jpg", "category": "math", "language": "zh", "question": "这个函数的对称中心是什么？", "answer": "(0, 0)"}
+{"sample_id": "math_51", "image": "images/205.jpg", "category": "math", "language": "zh", "question": "一位统计学家分析了上个赛季球员得分的跑数。上个赛季有多少名球员得分超过 2 分？", "answer": "24"}
+{"sample_id": "math_52", "image": "images/696.jpg", "category": "math", "language": "zh", "question": "Erica有1,525.00美元。她买一辆摩托车和一艘独木舟够用吗？", "answer": "no"}
+{"sample_id": "math_53", "image": "images/617.jpg", "category": "math", "language": "zh", "question": "加速度向量 \\(\\mathbf{a}\\) 的大小为 \\(10 \\mathrm{~cm} / \\mathrm{s}^2\\)。使用图示来估计 \\(\\mathbf{a}\\) 的法向分量。", "answer": "9"}
+{"sample_id": "math_54", "image": "images/749.jpg", "category": "math", "language": "zh", "question": "如图所示，在△ABC中，DE ∥ BC，若AB = 7.0，AC = 5.0，AD = 3.0，则DE =（ ）cm", "answer": "\\frac{20}{7}cm"}
+{"sample_id": "math_55", "image": "images/987.jpg", "category": "math", "language": "zh", "question": "已展示了一个飞机机翼的剖面图。机翼厚度在每隔20厘米处（以厘米为单位）的测量值分别为5.8、20.3、26.7、29.0、27.6、27.3、23.8、20.5、15.1、8.7和2.8。使用中点法估计该机翼剖面的面积。", "answer": "4232"}
+{"sample_id": "math_56", "image": "images/141.jpg", "category": "math", "language": "zh", "question": "如图所示，AB是一根长梯子，梯子一端靠在墙上，梯脚B离墙1.6，梯子上点D离墙1.4，BD的长度为0.55，则梯子的长度为（ ）", "answer": "4.40 meters"}
+{"sample_id": "math_57", "image": "images/586.jpg", "category": "math", "language": "zh", "question": "如图所示，在Rt△ABC中，∠BAC = 90.0。将△ABC绕点A按顺时针旋转90.0°，得到△AB′C′（点B对应点为B′，点C对应点为C′），连接CC′。若∠CC′B′ = 32.0，则∠AC′B′的大小为（ ）", "answer": "13°"}
+{"sample_id": "math_58", "image": "images/978.jpg", "category": "math", "language": "zh", "question": "艾莉保留了一个书面记录，记录她在过去7天里骑自行车的里程数。数字的范围是多少？", "answer": "7"}
+{"sample_id": "math_59", "image": "images/602.jpg", "category": "math", "language": "zh", "question": "如图所示，矩形ABCD被划分为两个相同的正方形区域。如果每个正方形的面积为9，那么矩形ABCD的周长是多少？", "answer": "18"}
+{"sample_id": "math_60", "image": "images/916.jpg", "category": "math", "language": "zh", "question": "如图所示，在Rt△ABC中，∠C = 90.0，∠A = 30.0，BC = 2.0，⊙C的半径为1.0，点P为斜边AB上的一点，过点P作⊙C的切线PQ（点Q为切点），则线段PQ的最小值为（ ）", "answer": "√{2}"}

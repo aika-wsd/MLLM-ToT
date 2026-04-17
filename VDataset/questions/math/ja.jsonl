@@ -1,0 +1,60 @@
+{"sample_id": "math_1", "image": "images/973.jpg", "category": "math", "language": "ja", "question": "この関数は何個の0を持っていますか？", "answer": "1"}
+{"sample_id": "math_2", "image": "images/56.jpg", "category": "math", "language": "ja", "question": "長方形の周の長さはいくつですか？", "answer": "6"}
+{"sample_id": "math_3", "image": "images/621.jpg", "category": "math", "language": "ja", "question": "上の図形は、合同で正三角形の25個の小さな三角形で構成されています。三角形DFHの面積が10であるとき、三角形AFKの面積はいくらですか？", "answer": "62.5"}
+{"sample_id": "math_4", "image": "images/627.jpg", "category": "math", "language": "ja", "question": "何人かの友だちがクイズゲームをしてスコアを記録しました。数の最頻値（モード）はいくつですか？", "answer": "6"}
+{"sample_id": "math_5", "image": "images/606.jpg", "category": "math", "language": "ja", "question": "長方形の周の長さはどれくらいですか？", "answer": "10"}
+{"sample_id": "math_6", "image": "images/942.jpg", "category": "math", "language": "ja", "question": "f(0) の値はいくつですか？", "answer": "0"}
+{"sample_id": "math_7", "image": "images/702.jpg", "category": "math", "language": "ja", "question": "第3週における「GROUP A」の累積増加体重（グラム）はいくらですか（概算値）？", "answer": "400"}
+{"sample_id": "math_8", "image": "images/455.jpg", "category": "math", "language": "ja", "question": "x = 32、r = 18のとき、上の図に示されている弧の長さはいくらですか？", "answer": "16*\\pi/5"}
+{"sample_id": "math_9", "image": "images/630.jpg", "category": "math", "language": "ja", "question": "下の図で、角MBDの大きさを求めてください。", "answer": "72"}
+{"sample_id": "math_10", "image": "images/391.jpg", "category": "math", "language": "ja", "question": "図のとおり、点Oは円 ⊙O の中心であり、点A、B、Cはすべて ⊙O 上にある。AO ∥ BC、∠AOB = 40.0°のとき、∠OAC の大きさは（ ）°に等しいか？", "answer": "20°"}
+{"sample_id": "math_11", "image": "images/798.jpg", "category": "math", "language": "ja", "question": "上の図で、l || m です。k + p + s はいくつですか？", "answer": "180"}
+{"sample_id": "math_12", "image": "images/143.jpg", "category": "math", "language": "ja", "question": "図のとおり、平行四辺形ABCDにおいて、CEは∠BCDを二等分し、ADの辺と点Eで交わる。さらにDE = 3.0のとき、線分ABの長さは（ ）である。", "answer": "3"}
+{"sample_id": "math_13", "image": "images/167.jpg", "category": "math", "language": "ja", "question": "この関数の最大のゼロ点（根）は何ですか？", "answer": "2"}
+{"sample_id": "math_14", "image": "images/886.jpg", "category": "math", "language": "ja", "question": "新聞は、各町にある食料品店が全部で何軒あるかを調べました。数の中央値はいくつですか？", "answer": "6"}
+{"sample_id": "math_15", "image": "images/144.jpg", "category": "math", "language": "ja", "question": "ナタリーはターメリックを4.6キログラム買います。合計はいくらですか？（単位：$）", "answer": "13.8"}
+{"sample_id": "math_16", "image": "images/964.jpg", "category": "math", "language": "ja", "question": "定規を動かして線の長さを最も近いセンチメートルまで測ってください。その線は約(_)センチメートルの長さです。", "answer": "6"}
+{"sample_id": "math_17", "image": "images/831.jpg", "category": "math", "language": "ja", "question": "ある著者が、過去3日間に自分が書いた単語数を記録した。木曜日と金曜日に著者が合計で書いた単語数はいくつか？（単位：単語）", "answer": "679"}
+{"sample_id": "math_18", "image": "images/67.jpg", "category": "math", "language": "ja", "question": "正方形の周の長さはいくつですか？", "answer": "16"}
+{"sample_id": "math_19", "image": "images/675.jpg", "category": "math", "language": "ja", "question": "図に示すように、小規模ダムの貯水池の断面は直角台形である。天端の幅BCは6.0、高さ（ダム高）は14.0、斜面CDの勾配はi=1.0:2.0である。すると、ダム底部ADの長さは（ ）である。", "answer": "34m"}
+{"sample_id": "math_20", "image": "images/316.jpg", "category": "math", "language": "ja", "question": "図のように、点A、B、Cが⊙O上にあり、∠AOB = 100.0であるとき、∠ACBの大きさは（ ）°ですか。", "answer": "50°"}
+{"sample_id": "math_21", "image": "images/599.jpg", "category": "math", "language": "ja", "question": "上の図で、AC = 6、BC = 3 である。点Pは、AB上でAとBの間にあり、線分CPが線分ABに垂直となるようにする。線分CPの長さとして考えられるものは次のうちどれか。", "answer": "2"}
+{"sample_id": "math_22", "image": "images/87.jpg", "category": "math", "language": "ja", "question": "テーブルを見てください。次に質問に答えてください。価格が$790のとき、不足ですか、それとも余剰ですか？", "answer": "余剰"}
+{"sample_id": "math_23", "image": "images/434.jpg", "category": "math", "language": "ja", "question": "上の図で、三角形ABCの辺ACは直線l上にあります。kの式でxはいくつですか？", "answer": "60-k"}
+{"sample_id": "math_24", "image": "images/698.jpg", "category": "math", "language": "ja", "question": "上の図の三角形において、xの値はいくつですか？", "answer": "2*\\sqrt{3}"}
+{"sample_id": "math_25", "image": "images/269.jpg", "category": "math", "language": "ja", "question": "図に示すように、気球に乗って空中の地点Aから建物の上端を見たときの仰角は30.0°であり、この建物の俯角は60.0°である。気球と建物の水平距離は120.0である。この建物の高さは（ ）である。", "answer": "160√{3}m"}
+{"sample_id": "math_26", "image": "images/806.jpg", "category": "math", "language": "ja", "question": "図に示すように、ABは⊙Oの直径であり、点Cは⊙O上にあります。∠A＝40.0のとき、∠Bの大きさは（ ）度ですか？", "answer": "50°"}
+{"sample_id": "math_27", "image": "images/389.jpg", "category": "math", "language": "ja", "question": "テーブルを見てください。次に質問に答えてください。価格が$320の場合、不足ですか、それとも過剰ですか？", "answer": "不足"}
+{"sample_id": "math_28", "image": "images/121.jpg", "category": "math", "language": "ja", "question": "昼食を持参することでどれだけお金を節約できるかを計算しようとしながら、マンニーは毎日昼食に使った金額を記録しました。表によると、水曜日と木曜日の間の変化の割合はいくらですか？（単位：$、1日あたり）", "answer": "5"}
+{"sample_id": "math_29", "image": "images/30.jpg", "category": "math", "language": "ja", "question": "図のように、円の中で2本の弦ABとCDが点Eで交わっている。∠D = 35.0、∠AEC = 105.0であるとき、∠C =（ ）？", "answer": "70°"}
+{"sample_id": "math_30", "image": "images/186.jpg", "category": "math", "language": "ja", "question": "図の通り、CDは平面鏡であり、光は点Aから放射され、CD上の点Eで反射されて点Bへ照射される。入射角がαであり、AC ⊥ CD、BD ⊥ CDである。垂線の足はそれぞれC、Dで、AC = 3.0、BD = 6.0、CD = 10.0とすると、線分EDの長さは（ ）である。", "answer": "\\frac{20}{3}"}
+{"sample_id": "math_31", "image": "images/364.jpg", "category": "math", "language": "ja", "question": "図のとおり、ABは円Oの直径であり、点Cと点Dは円O上にある。∠ABD=50.0° のとき、∠BCD の大きさは何度ですか（ ）？", "answer": "40°"}
+{"sample_id": "math_32", "image": "images/568.jpg", "category": "math", "language": "ja", "question": "経済学の課題のために、コリーンは自転車と車のフェリー料金を調べました。ムキルティオ・クリントン連絡フェリーでは、サウスポート・フォートフィッシャー連絡フェリーより車の運賃はいくら高いですか？（単位：$）", "answer": "2"}
+{"sample_id": "math_33", "image": "images/44.jpg", "category": "math", "language": "ja", "question": "チェイスは楕円形のビーズを4キログラム、星形のビーズを5キログラム買いたいです。彼はいくら支払うことになりますか？（単位：$）", "answer": "18"}
+{"sample_id": "math_34", "image": "images/329.jpg", "category": "math", "language": "ja", "question": "x=6におけるyの導関数は、x=8におけるそれより____です", "answer": "より大きい"}
+{"sample_id": "math_35", "image": "images/332.jpg", "category": "math", "language": "ja", "question": "タクシーの運転手は、毎月何マイル運転したかを追跡していました。1月と4月にそのタクシーの運転手は合計で何マイル運転しましたか？（単位：マイル）", "answer": "7873"}
+{"sample_id": "math_36", "image": "images/679.jpg", "category": "math", "language": "ja", "question": "図に示すように、▱ABCDで対角線ACとBDが点Oで交わっています。AC = 12.0、BD = 8.0、AB = 7.0のとき、△OABの周の長さは（ ）ですか？", "answer": "17"}
+{"sample_id": "math_37", "image": "images/903.jpg", "category": "math", "language": "ja", "question": "図に示すように、∠ABC = 30.0 のとき、∠AOC の度数は（ ）ですか。", "answer": "60°"}
+{"sample_id": "math_38", "image": "images/275.jpg", "category": "math", "language": "ja", "question": "図のように、Rt△ABCで∠BAC＝90.0、ADはBCに垂直で交点をDとし、DEはABに垂直で交点をEとする。AD＝3.0、DE＝2.0のとき、CDの長さは（ ）である。", "answer": "\\frac{3\\sqrt{5}}{2}"}
+{"sample_id": "math_39", "image": "images/102.jpg", "category": "math", "language": "ja", "question": "この図形は1辺の長さが1の正方形でできています。この図形の面積は何ですか？", "answer": "6"}
+{"sample_id": "math_40", "image": "images/353.jpg", "category": "math", "language": "ja", "question": "時刻 $t=0$ に、あるタンクには 100 gal の水に溶けた食塩が $Q_0 \\mathrm{lb}$ 含まれている。図2.3.1を参照。水に食塩が $\\frac{1}{4} \\mathrm{lb}$/gal 含まれており、その水が毎分 $r \\mathrm{gal}/\\mathrm{min}$ の割合でタンクに流入していると仮定する。また、十分にかき混ぜられた混合物は同じ割合でタンクから排出されているとする。この流れの過程を記述する初期値問題を設定せよ。任意の時刻におけるタンク内の食塩の量 $Q(t)$ を求め、さらに非常に長い時間の後に存在する極限量 $Q_L$ を求めよ。$r=3$、$Q_0=2 Q_L$ のとき、食塩の量が $Q_L$ の 2% 以内になるまでの時間 $T$ を求めよ。", "answer": "130.4"}
+{"sample_id": "math_41", "image": "images/355.jpg", "category": "math", "language": "ja", "question": "図のように、平行な直線aとbは直線cによって切られている。∠1 = 50.0のとき、∠2の度数は（ ）である。", "answer": "130°"}
+{"sample_id": "math_42", "image": "images/331.jpg", "category": "math", "language": "ja", "question": "何人かが、自分が訪問したWebページの数を比較しました。数の平均はいくつですか？", "answer": "64"}
+{"sample_id": "math_43", "image": "images/746.jpg", "category": "math", "language": "ja", "question": "ジマーマン夫人は子ども向けの毎年恒例のアートコンテストを主催しており、毎年の出品数を記録しています。表によると、2013年から2014年の間の変化の割合はいくつでしたか？（単位：年あたりの出品数）", "answer": "7"}
+{"sample_id": "math_44", "image": "images/45.jpg", "category": "math", "language": "ja", "question": "運輸事務局（DMV）の管理者が月ごとの平均待ち時間を追跡しました。表によると、8月から9月の間の変化率（rate of change）はいくらでしたか？（単位：1か月あたりの分）", "answer": "-3"}
+{"sample_id": "math_45", "image": "images/164.jpg", "category": "math", "language": "ja", "question": "図の通り、▱ABCDにおいて、CE ⊥ ABとする。点Eは垂線の足である。∠D = 55.0 のとき、∠BCE = （ ）はいくつか。", "answer": "35°"}
+{"sample_id": "math_46", "image": "images/220.jpg", "category": "math", "language": "ja", "question": "図のように、⊙Oは四角形ABCDの外接円であり、∠Oが110.0であるとき、∠Cの大きさは何度ですか（）。", "answer": "125°"}
+{"sample_id": "math_47", "image": "images/573.jpg", "category": "math", "language": "ja", "question": "レースカーのドライバーは、過去5日間に自分が何周走ったかを数え上げていました。この数のモードは何ですか？", "answer": "53"}
+{"sample_id": "math_48", "image": "images/708.jpg", "category": "math", "language": "ja", "question": "図に示すように、光源Pは横桟ABの真上にあり、光の下でのABの影はCDである。AB ∥ CD、AB = 2.0、CD = 5.0、点PとCDの距離は3.0である。このとき、ABとCDの距離は（ ）である。", "answer": "\\frac{9}{5}"}
+{"sample_id": "math_49", "image": "images/999.jpg", "category": "math", "language": "ja", "question": "加速度ベクトル\\(\\mathbf{a}\\)の大きさは\\(10\\mathrm{~cm}/\\mathrm{s}^2\\)である。図を用いて\\(\\mathbf{a}\\)の接線方向成分を見積もれ。", "answer": "4.5"}
+{"sample_id": "math_50", "image": "images/762.jpg", "category": "math", "language": "ja", "question": "この関数の対称の中心はどこですか？", "answer": "(0, 0)"}
+{"sample_id": "math_51", "image": "images/205.jpg", "category": "math", "language": "ja", "question": "統計学者は、昨シーズンに選手が得点したラン数を分析しました。昨シーズンに2ランを超えて得点した選手は何人ですか？", "answer": "24"}
+{"sample_id": "math_52", "image": "images/696.jpg", "category": "math", "language": "ja", "question": "エリカは1,525.00ドル持っています。彼女はオートバイとカヌーを買うのに十分なお金がありますか？", "answer": "いいえ"}
+{"sample_id": "math_53", "image": "images/617.jpg", "category": "math", "language": "ja", "question": "加速度ベクトル \\(\\mathbf{a}\\) の大きさは \\(10\\ \\mathrm{cm}/\\mathrm{s}^2\\) である。図を用いて \\(\\mathbf{a}\\) の法線成分を推定せよ。", "answer": "9"}
+{"sample_id": "math_54", "image": "images/749.jpg", "category": "math", "language": "ja", "question": "図のように、△ABCにおいてDE ∥ BCとする。AB = 7.0、AC = 5.0、AD = 3.0のとき、DE =（ ）", "answer": "\\frac{20}{7}cm"}
+{"sample_id": "math_55", "image": "images/987.jpg", "category": "math", "language": "ja", "question": "飛行機の翼の断面が示されている。翼の厚さを20センチメートル間隔で測った値（単位：センチメートル）は、5.8、20.3、26.7、29.0、27.6、27.3、23.8、20.5、15.1、8.7、そして2.8である。中点公式（Midpoint Rule）を用いて、翼の断面積を見積もれ。", "answer": "4232"}
+{"sample_id": "math_56", "image": "images/141.jpg", "category": "math", "language": "ja", "question": "図に示すように、ABは壁にもたれかけた長いはしごであり、はしごの足Bは壁から1.6離れている。はしご上の点Dは壁から1.4離れており、BDの長さは0.55である。このとき、はしごの長さは（ ）である。", "answer": "4.40 meters"}
+{"sample_id": "math_57", "image": "images/586.jpg", "category": "math", "language": "ja", "question": "図のように、Rt△ABCで∠BAC＝90.0のとき、点Aのまわりに△ABCを時計回りに90.0回転して△AB′C′を得る（点Bの対応点がB′、点Cの対応点がC′）。“CC′”を結ぶ。∠CC′B′＝32.0なら、∠AC′B′の大きさは（ ）°である。", "answer": "13°"}
+{"sample_id": "math_58", "image": "images/978.jpg", "category": "math", "language": "ja", "question": "アリーは過去7日間に自転車で走った距離（何マイルか）を記録した。数の範囲はいくつ？", "answer": "7"}
+{"sample_id": "math_59", "image": "images/602.jpg", "category": "math", "language": "ja", "question": "図の上のように、長方形ABCDは2つの同じ正方形領域に分割されている。各正方形の面積が9であるとき、ABCDの周の長さはどれくらいか。", "answer": "18"}
+{"sample_id": "math_60", "image": "images/916.jpg", "category": "math", "language": "ja", "question": "図のように、Rt△ABCで、∠C = 90.0、∠A = 30.0、BC = 2.0、⊙Cの半径が1.0である。点Pは斜辺AB上の点であり、点Pを通る⊙Cの接線PQ（点Qは接点）を引くとき、線分PQの最小値は（ ）である。", "answer": "√{2}"}
