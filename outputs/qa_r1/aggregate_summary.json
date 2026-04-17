@@ -1,0 +1,81 @@
+{
+  "overall": {
+    "total": 2400,
+    "correct": 1321,
+    "accuracy": 0.5504
+  },
+  "by_category": {
+    "math": {
+      "total": 600,
+      "correct": 287,
+      "accuracy": 0.4783
+    },
+    "attribute": {
+      "total": 600,
+      "correct": 398,
+      "accuracy": 0.6633
+    },
+    "counting": {
+      "total": 600,
+      "correct": 303,
+      "accuracy": 0.505
+    },
+    "spatial": {
+      "total": 600,
+      "correct": 333,
+      "accuracy": 0.555
+    }
+  },
+  "by_language": {
+    "da": {
+      "total": 240,
+      "correct": 131,
+      "accuracy": 0.5458
+    },
+    "de": {
+      "total": 240,
+      "correct": 135,
+      "accuracy": 0.5625
+    },
+    "en": {
+      "total": 240,
+      "correct": 146,
+      "accuracy": 0.6083
+    },
+    "es": {
+      "total": 240,
+      "correct": 145,
+      "accuracy": 0.6042
+    },
+    "fr": {
+      "total": 240,
+      "correct": 123,
+      "accuracy": 0.5125
+    },
+    "he": {
+      "total": 240,
+      "correct": 119,
+      "accuracy": 0.4958
+    },
+    "it": {
+      "total": 240,
+      "correct": 138,
+      "accuracy": 0.575
+    },
+    "ja": {
+      "total": 240,
+      "correct": 118,
+      "accuracy": 0.4917
+    },
+    "nl": {
+      "total": 240,
+      "correct": 130,
+      "accuracy": 0.5417
+    },
+    "zh": {
+      "total": 240,
+      "correct": 136,
+      "accuracy": 0.5667
+    }
+  }
+}
