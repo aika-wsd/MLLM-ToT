@@ -1,0 +1,282 @@
+[
+  {
+    "category": "math",
+    "language": "da",
+    "total": 60,
+    "correct": 29,
+    "accuracy": 0.4833
+  },
+  {
+    "category": "math",
+    "language": "de",
+    "total": 60,
+    "correct": 30,
+    "accuracy": 0.5
+  },
+  {
+    "category": "math",
+    "language": "en",
+    "total": 60,
+    "correct": 32,
+    "accuracy": 0.5333
+  },
+  {
+    "category": "math",
+    "language": "es",
+    "total": 60,
+    "correct": 32,
+    "accuracy": 0.5333
+  },
+  {
+    "category": "math",
+    "language": "fr",
+    "total": 60,
+    "correct": 27,
+    "accuracy": 0.45
+  },
+  {
+    "category": "math",
+    "language": "he",
+    "total": 60,
+    "correct": 26,
+    "accuracy": 0.4333
+  },
+  {
+    "category": "math",
+    "language": "it",
+    "total": 60,
+    "correct": 31,
+    "accuracy": 0.5167
+  },
+  {
+    "category": "math",
+    "language": "ja",
+    "total": 60,
+    "correct": 28,
+    "accuracy": 0.4667
+  },
+  {
+    "category": "math",
+    "language": "nl",
+    "total": 60,
+    "correct": 30,
+    "accuracy": 0.5
+  },
+  {
+    "category": "math",
+    "language": "zh",
+    "total": 60,
+    "correct": 26,
+    "accuracy": 0.4333
+  },
+  {
+    "category": "attribute",
+    "language": "da",
+    "total": 60,
+    "correct": 34,
+    "accuracy": 0.5667
+  },
+  {
+    "category": "attribute",
+    "language": "de",
+    "total": 60,
+    "correct": 39,
+    "accuracy": 0.65
+  },
+  {
+    "category": "attribute",
+    "language": "en",
+    "total": 60,
+    "correct": 44,
+    "accuracy": 0.7333
+  },
+  {
+    "category": "attribute",
+    "language": "es",
+    "total": 60,
+    "correct": 41,
+    "accuracy": 0.6833
+  },
+  {
+    "category": "attribute",
+    "language": "fr",
+    "total": 60,
+    "correct": 37,
+    "accuracy": 0.6167
+  },
+  {
+    "category": "attribute",
+    "language": "he",
+    "total": 60,
+    "correct": 36,
+    "accuracy": 0.6
+  },
+  {
+    "category": "attribute",
+    "language": "it",
+    "total": 60,
+    "correct": 41,
+    "accuracy": 0.6833
+  },
+  {
+    "category": "attribute",
+    "language": "ja",
+    "total": 60,
+    "correct": 39,
+    "accuracy": 0.65
+  },
+  {
+    "category": "attribute",
+    "language": "nl",
+    "total": 60,
+    "correct": 40,
+    "accuracy": 0.6667
+  },
+  {
+    "category": "attribute",
+    "language": "zh",
+    "total": 60,
+    "correct": 42,
+    "accuracy": 0.7
+  },
+  {
+    "category": "counting",
+    "language": "da",
+    "total": 60,
+    "correct": 30,
+    "accuracy": 0.5
+  },
+  {
+    "category": "counting",
+    "language": "de",
+    "total": 60,
+    "correct": 31,
+    "accuracy": 0.5167
+  },
+  {
+    "category": "counting",
+    "language": "en",
+    "total": 60,
+    "correct": 28,
+    "accuracy": 0.4667
+  },
+  {
+    "category": "counting",
+    "language": "es",
+    "total": 60,
+    "correct": 32,
+    "accuracy": 0.5333
+  },
+  {
+    "category": "counting",
+    "language": "fr",
+    "total": 60,
+    "correct": 28,
+    "accuracy": 0.4667
+  },
+  {
+    "category": "counting",
+    "language": "he",
+    "total": 60,
+    "correct": 27,
+    "accuracy": 0.45
+  },
+  {
+    "category": "counting",
+    "language": "it",
+    "total": 60,
+    "correct": 29,
+    "accuracy": 0.4833
+  },
+  {
+    "category": "counting",
+    "language": "ja",
+    "total": 60,
+    "correct": 25,
+    "accuracy": 0.4167
+  },
+  {
+    "category": "counting",
+    "language": "nl",
+    "total": 60,
+    "correct": 32,
+    "accuracy": 0.5333
+  },
+  {
+    "category": "counting",
+    "language": "zh",
+    "total": 60,
+    "correct": 36,
+    "accuracy": 0.6
+  },
+  {
+    "category": "spatial",
+    "language": "da",
+    "total": 60,
+    "correct": 37,
+    "accuracy": 0.6167
+  },
+  {
+    "category": "spatial",
+    "language": "de",
+    "total": 60,
+    "correct": 35,
+    "accuracy": 0.5833
+  },
+  {
+    "category": "spatial",
+    "language": "en",
+    "total": 60,
+    "correct": 38,
+    "accuracy": 0.6333
+  },
+  {
+    "category": "spatial",
+    "language": "es",
+    "total": 60,
+    "correct": 39,
+    "accuracy": 0.65
+  },
+  {
+    "category": "spatial",
+    "language": "fr",
+    "total": 60,
+    "correct": 29,
+    "accuracy": 0.4833
+  },
+  {
+    "category": "spatial",
+    "language": "he",
+    "total": 60,
+    "correct": 30,
+    "accuracy": 0.5
+  },
+  {
+    "category": "spatial",
+    "language": "it",
+    "total": 60,
+    "correct": 36,
+    "accuracy": 0.6
+  },
+  {
+    "category": "spatial",
+    "language": "ja",
+    "total": 60,
+    "correct": 31,
+    "accuracy": 0.5167
+  },
+  {
+    "category": "spatial",
+    "language": "nl",
+    "total": 60,
+    "correct": 34,
+    "accuracy": 0.5667
+  },
+  {
+    "category": "spatial",
+    "language": "zh",
+    "total": 60,
+    "correct": 30,
+    "accuracy": 0.5
+  }
+]
