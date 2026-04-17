@@ -1,0 +1,60 @@
+{"sample_id": "attr_1", "image": "images/2346354.jpg", "category": "attribute", "language": "he", "question": "בתמונה, לאיזו צבע הפה של הציפור שעומדת ליד המים?", "answer": "אדום-כתום"}
+{"sample_id": "attr_2", "image": "images/2360276.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של הפילון הקטן שנמצא באמצע בין שני הפילים הבוגרים שבתמונה?", "answer": "אפור"}
+{"sample_id": "attr_3", "image": "images/2342286.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע של הגוף הראשי של קוביית הקרח ששתי הדובים השחורים לועסים?", "answer": "ורוד-סגול"}
+{"sample_id": "attr_4", "image": "images/2336139.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של חזית הבניין הגבוה שנמצא מאחורי שלט העצירה?", "answer": "לבן"}
+{"sample_id": "attr_5", "image": "images/2083.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו צבע החומר של המעטפת של המיקרוגל שנמצא ישירות מעל הכיריים?", "answer": "מתכת כסופה"}
+{"sample_id": "attr_6", "image": "images/2389692.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע של גוף האופנוע הזה, שמחנה על השביל שליד הדשא?", "answer": "תכלת בהיר"}
+{"sample_id": "attr_7", "image": "images/2408421.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע מכנסיים קצרים לובש הגבר שמניף את המחבט כדי להכות בכדור?", "answer": "אדום"}
+{"sample_id": "attr_8", "image": "images/1159886.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה צבע החלק העליון של מגדלור קטן שנמצא בצד השמאלי של המסך, סמוך לשובר הגלים?", "answer": "ירוק"}
+{"sample_id": "attr_9", "image": "images/2352947.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע עיקרי מופיע בתחתית גוף המטוס שלפנינו, כפי שנראה מזווית מלמטה?", "answer": "לבן"}
+{"sample_id": "attr_10", "image": "images/2356695.jpg", "category": "attribute", "language": "he", "question": "מהו הצבע העיקרי של החזית של הבית בתמונה שהדלת והחלונות שלו אטומים באמצעות לוחות עץ?", "answer": "לבן"}
+{"sample_id": "attr_11", "image": "images/2417154.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של הדיסק המעופף שהכלב דורכים עליו?", "answer": "ירוק"}
+{"sample_id": "attr_12", "image": "images/498304.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של רעמת הסוס שעליו רוכבת הילדה הקטנה?", "answer": "לבן"}
+{"sample_id": "attr_13", "image": "images/2407097.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע המשותף לחלק התחתון של גוף המטוס של שתי המטוסים?", "answer": "אדום"}
+{"sample_id": "attr_14", "image": "images/2385728.jpg", "category": "attribute", "language": "he", "question": "מהו צבע הפסים שעל גבי הזברה הזו בתמונה כאשר היא מנמיכה את ראשה?", "answer": "שחור ולבן לסירוגין"}
+{"sample_id": "attr_15", "image": "images/2357424.jpg", "category": "attribute", "language": "he", "question": "בתמונה, באיזו צבע בעיקר נמצא הראש והצוואר של הציפור שעומדת על מתקן תאורה ממתכת?", "answer": "אדום"}
+{"sample_id": "attr_16", "image": "images/2358959.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזו צבע עיקרי יש לכלב שמחזיק בפיו דיסק מעופף?", "answer": "שחור ולבן לסירוגין"}
+{"sample_id": "attr_17", "image": "images/2338376.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של הירק דמוי העלה שמופיע בין הלחמנייה והקציצה בתוך ההמבורגר שבתמונה?", "answer": "ירוק"}
+{"sample_id": "attr_18", "image": "images/2365157.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של הפרחים שנמצאים באגרטל במרכז השולחן?", "answer": "סגול"}
+{"sample_id": "attr_19", "image": "images/2345808.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של הדוגמות שעל גופו של הג'ירפה שנמצאת בצד ימין?", "answer": "חום"}
+{"sample_id": "attr_20", "image": "images/2319960.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע העיקרי של מעטפת מנוע המטוס?", "answer": "צהוב"}
+{"sample_id": "attr_21", "image": "images/2360697.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של פרוסות הבשר שנמצאות מעל שתי פרוסות הטוסט?", "answer": "ורוד בהיר"}
+{"sample_id": "attr_22", "image": "images/61561.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע הוא קישוט בצורת לב התלוי על הקיר שמאחורי הספה שבצד ימין?", "answer": "לבן"}
+{"sample_id": "attr_23", "image": "images/2343700.jpg", "category": "attribute", "language": "he", "question": "בתמונה, על חדק הפיל שנמצא במיקום האמצעי בקדמת התמונה יש כתמי צבע בולטים של איזו צבע?", "answer": "ורוד"}
+{"sample_id": "attr_24", "image": "images/2327606.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע יש לגופו של הפילון הקטן העומד מלפנים?", "answer": "חום-אפור"}
+{"sample_id": "attr_25", "image": "images/2354419.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של מקור הברווז שנמצא במרכז התמונה?", "answer": "אדום"}
+{"sample_id": "attr_26", "image": "images/2352013.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של הכתמים שעל הג’ירפה שבפינה הימנית-תחתונה, שמסתכלת מטה?", "answer": "חום"}
+{"sample_id": "attr_27", "image": "images/2348237.jpg", "category": "attribute", "language": "he", "question": "בתמונה, הברבור שנמצא במרכז הפרגראונד—איזה צבע נוצות יש לו בגוף?", "answer": "לבן"}
+{"sample_id": "attr_28", "image": "images/2358987.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה צבעו של הגור הקטן שנמצא מתחת לגופה של אמו הפילה?", "answer": "אפור כהה"}
+{"sample_id": "attr_29", "image": "images/2405805.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע היא החתולה שיושבת על רצפת העץ ונמצאת במרכז הפריים?", "answer": "כתום-אפרסק"}
+{"sample_id": "attr_30", "image": "images/2377178.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה צבע חצאית הספורט של שחקן הטניס המניף מחבט ברקע הקדמי?", "answer": "אדום"}
+{"sample_id": "attr_31", "image": "images/2406169.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע הכללי של הבננה שהכי קרובה למרכז התמונה?", "answer": "ירוק"}
+{"sample_id": "attr_32", "image": "images/2319609.jpg", "category": "attribute", "language": "he", "question": "בתמונה, באיזה צבע בעיקר נמצאות הנקודות שעל גופו של הג'ירף שמאריך את צווארו?", "answer": "חום כהה"}
+{"sample_id": "attr_33", "image": "images/2348860.jpg", "category": "attribute", "language": "he", "question": "בתמונה, כנפי התוכי שנמצא ליד הפירות הן בעיקר באיזה צבע?", "answer": "ירוק"}
+{"sample_id": "attr_34", "image": "images/2332020.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של החלק הקדמי ושל החלק התחתון של גוף האוטובוס הדו-קומתי?", "answer": "כתום"}
+{"sample_id": "attr_35", "image": "images/2381022.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של הפסים שעל זברה שנמצאת ליד סלע בתמונה?", "answer": "שחור ולבן לסירוגין"}
+{"sample_id": "attr_36", "image": "images/2391767.jpg", "category": "attribute", "language": "he", "question": "בתמונה, באיזה צבע הרקע של שלט הרחוב „ROBERTS ST” שנמצא למטה?", "answer": "ירוק"}
+{"sample_id": "attr_37", "image": "images/2403543.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע העיקרי של גוף המטוס?", "answer": "לבן"}
+{"sample_id": "attr_38", "image": "images/2323533.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של הזנב של הזברה שנמצא בקצה הימני ביותר בתמונה?", "answer": "שחור"}
+{"sample_id": "attr_39", "image": "images/2329035.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של הבננה שנמצאת מעט משמאל למרכז התמונה, צמודה לפירות התפוח?", "answer": "צהוב"}
+{"sample_id": "attr_40", "image": "images/2382868.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע של הדוגמה הבולטת ביותר על צוואר הג’ירפה?", "answer": "חום כהה"}
+{"sample_id": "attr_41", "image": "images/2315758.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע הוא הרקע של שלט העצירה העגול שמקובע במרכז גדר התיל?", "answer": "אדום"}
+{"sample_id": "attr_42", "image": "images/2368662.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזו צבע של בגדים לובש האדם שבקצה הימני, היושב על גבו של הפיל?", "answer": "תכלת בהיר"}
+{"sample_id": "attr_43", "image": "images/2381677.jpg", "category": "attribute", "language": "he", "question": "בתמונה, באיזו צבע בעיקר תפוחים שנמצאים בצד השמאלי של ארגז הפלסטיק האדום שנמצא בשורה הקדמית ביותר?", "answer": "אדום"}
+{"sample_id": "attr_44", "image": "images/2346040.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע העיקרי של הדוגמה שעל צוואר הג'ירפה במרכז התמונה?", "answer": "חום כהה"}
+{"sample_id": "attr_45", "image": "images/2411719.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו בעיקר שילוב הצבעים של כיסוי המטרייה שבה שני אנשים מחזיקים יחד?", "answer": "אדום ולבן לסירוגין"}
+{"sample_id": "attr_46", "image": "images/2352516.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של המיקרוגל שמעל הכיריים בתמונה?", "answer": "שחור"}
+{"sample_id": "attr_47", "image": "images/2372492.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מהו הצבע של גוף שעון הרחוב שעומד על העמוד?", "answer": "שחור"}
+{"sample_id": "attr_48", "image": "images/1592017.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע של שלט ההכוונה בצורת יהלום של אופניים שנמצא מימין לשלט האדום \"STOP\"?", "answer": "צהוב"}
+{"sample_id": "attr_49", "image": "images/2408480.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע העיקרי של החתול שיושב על מיכל ההדחה של האסלה?", "answer": "אפור-לבן"}
+{"sample_id": "attr_50", "image": "images/150514.jpg", "category": "attribute", "language": "he", "question": "איזה צבע הן שתי אופנועים שרוכבים זה לצד זה בתמונה?", "answer": "צהוב"}
+{"sample_id": "attr_51", "image": "images/2388959.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע של הפיל הקטן יותר שבצד ימין?", "answer": "שחור"}
+{"sample_id": "attr_52", "image": "images/2363843.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע הוא גג כיסא החוף המוצל עם וילונות הנמצא במרכז החוף?", "answer": "לבן"}
+{"sample_id": "attr_53", "image": "images/2383443.jpg", "category": "attribute", "language": "he", "question": "מהו הצבע של הפסים שעל גבי הזברה הנמצאת עם הראש למטה בתמונה?", "answer": "שחור ולבן לסירוגין"}
+{"sample_id": "attr_54", "image": "images/2333282.jpg", "category": "attribute", "language": "he", "question": "מה הצבע של לוח השעון העגול התלוי מתחת לחלון בתמונה?", "answer": "חום בהיר"}
+{"sample_id": "attr_55", "image": "images/2359240.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע של החלק המרכזי של גוף האופנוע שנמצא בצד ימין של הפריים?", "answer": "שחור"}
+{"sample_id": "attr_56", "image": "images/2382568.jpg", "category": "attribute", "language": "he", "question": "בתמונה מופיע שלט דרכים שעליו כתוב “Brougham”. מה הצבע של הרקע של שלט הדרכים?", "answer": "צהוב-חיוור"}
+{"sample_id": "attr_57", "image": "images/107977.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזו צבע היא האוברול (בגד עבודה בסגנון מקשה אחת) של הגבר שעומד בצד שמאל של הקרוואן?", "answer": "כחול כהה"}
+{"sample_id": "attr_58", "image": "images/2335579.jpg", "category": "attribute", "language": "he", "question": "בתמונה, איזה צבע הם הפסים שעל שתי הזברות שנמצאות מול הגזע מימין?", "answer": "שחור ולבן לסירוגין"}
+{"sample_id": "attr_59", "image": "images/2394965.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה הצבע של המעיל של האיש שעומד בצד ימין ומחזיק מטרייה?", "answer": "שחור"}
+{"sample_id": "attr_60", "image": "images/2320348.jpg", "category": "attribute", "language": "he", "question": "בתמונה, מה צבע החלמון של הביצה החתוכה שנמצאת מתחת לשמאל לצלחת?", "answer": "צהוב"}
