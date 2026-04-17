@@ -1,0 +1,60 @@
+{"sample_id": "coun_1", "image": "images/2360276.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, מסביב לפילון עומדות יחד כמה פילונים בוגרים?", "answer": "2"}
+{"sample_id": "coun_2", "image": "images/2384468.jpg", "category": "counting", "language": "he", "question": "כמה אנשים נמצאים בתמונה שעומדים בקצה של אזור הסקייטבורד ואין בידיהם סקייטבורד?", "answer": "3"}
+{"sample_id": "coun_3", "image": "images/2370486.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, בגוף הצדדי של החשמלית ניתן לראות כמה דלתות?", "answer": "6"}
+{"sample_id": "coun_4", "image": "images/2392972.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, במרחב המדף הפתוח שמתחת לכיריים שבו אין דלת ארון שמסתירה, כמה קערות רואים?", "answer": "4"}
+{"sample_id": "coun_5", "image": "images/2324553.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, על הרצפה שלפני הספה יושבים כמה בובות?", "answer": "1"}
+{"sample_id": "coun_6", "image": "images/2380059.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, מלבד הכריכים וקערת היוגורט, כמה תותים יש בצלחת הלבנה?", "answer": "4"}
+{"sample_id": "coun_7", "image": "images/2399333.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, מבין האנשים שנמצאים ליד הבסיס הביתִי ומשתתפים במשחק של הכדור הזה, מלבד החובט—כמה אנשים נוספים יש?", "answer": "2"}
+{"sample_id": "coun_8", "image": "images/2379579.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה פתחי עגולים ניתן לראות בבירור בתוך מיכל ההדחה של האסלה?", "answer": "2"}
+{"sample_id": "coun_9", "image": "images/2083.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה כפתורי כיריים נראים מתחת למיקרוגל שמעל הכיריים?", "answer": "5"}
+{"sample_id": "coun_10", "image": "images/1159316.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה שחפים עומדים ליד קצה המים?", "answer": "4"}
+{"sample_id": "coun_11", "image": "images/4078.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, ליד שולחן אוכל מעץ ניתן לראות כמה כיסאות?", "answer": "2"}
+{"sample_id": "coun_12", "image": "images/1159886.jpg", "category": "counting", "language": "he", "question": "בכמה סירות קטנות שנמצאות במים שבחזית התמונה, קרוב למצלמה, ניתן לראות בבירור שהמנוע השחור תלוי מאחוריהן?", "answer": "4"}
+{"sample_id": "coun_13", "image": "images/2331999.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה מטוסי מדחף מרחפים בשמיים בטיסה זה לצד זה?", "answer": "2"}
+{"sample_id": "coun_14", "image": "images/2352947.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, מתחת לכנף של המטוס, כמה מנועים אפשר לראות בסך הכול?", "answer": "2"}
+{"sample_id": "coun_15", "image": "images/2368165.jpg", "category": "counting", "language": "he", "question": "בתמונה, כמה פריטים יש בסך הכול אם סופרים יחד את האדם שעומד במרפסת ואת הכלב?", "answer": "3"}
+{"sample_id": "coun_16", "image": "images/2317324.jpg", "category": "counting", "language": "he", "question": "בתמונה, לכמה בננות יש על כן האבן שבחזית?", "answer": "1"}
+{"sample_id": "coun_17", "image": "images/2384156.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, כמה פילים נמצאים בזמן אכילת דשא?", "answer": "1"}
+{"sample_id": "coun_18", "image": "images/3418.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, על הקיר החיצוני של הבניין האפור בצד השמאלי יש תריסים ירוקים ומרפסת באיזה מספר של פלטפורמות בסך הכול?", "answer": "3"}
+{"sample_id": "coun_19", "image": "images/2350027.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה רוכבי סקייטבורד נמצאים על הכביש כשהם מתכופפים ומחליקים?", "answer": "3"}
+{"sample_id": "coun_20", "image": "images/2364732.jpg", "category": "counting", "language": "he", "question": "בתמונה יש כמה בנות שמחזיקות קופסת פיצה פתוחה בידיים?", "answer": "3"}
+{"sample_id": "coun_21", "image": "images/2321089.jpg", "category": "counting", "language": "he", "question": "בתמונה הזאת, כמה כוסות לבנות שעליהן מונח משקה כהה יש על השולחן?", "answer": "2"}
+{"sample_id": "coun_22", "image": "images/2358959.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, על הדיסק האורנג'י שהכלב נושא בפיו יש כמה תשלוגים עגולים שחורים?", "answer": "1"}
+{"sample_id": "coun_23", "image": "images/2390288.jpg", "category": "counting", "language": "he", "question": "כמה אנשים בתמונה נמצאים כשהם יושבים על כיסא ברכבל כשהרגליים תלויות באוויר?", "answer": "2"}
+{"sample_id": "coun_24", "image": "images/2341876.jpg", "category": "counting", "language": "he", "question": "על השולחן, ליד הבקבוק שליד האמצע, כמה כוסות יין אפשר לראות בסך הכל?", "answer": "3"}
+{"sample_id": "coun_25", "image": "images/1764.jpg", "category": "counting", "language": "he", "question": "בכמה חלונות יש תריסי ברזל שחורים על קיר האבן בצד השמאלי של הרחוב הצר הזה, בסך הכול?", "answer": "4"}
+{"sample_id": "coun_26", "image": "images/2345808.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה ג׳ירפות יש שעומדות מול שיחי החזית כשהגופים שלהן חוצים זה את זה?", "answer": "2"}
+{"sample_id": "coun_27", "image": "images/2334805.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, מבין האנשים שעומדים בה—כמה מהם לובשים מעיל עם כובע או בגדים עם קפוצ'ון?", "answer": "5"}
+{"sample_id": "coun_28", "image": "images/2410069.jpg", "category": "counting", "language": "he", "question": "בתוך האזור שמוקף בגדרות שחורות מול כניסת הבניין בתמונה, כמה עצמים אדומים בצורת עמודים נמצאים?", "answer": "2"}
+{"sample_id": "coun_29", "image": "images/2348432.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה חתולים נמצאים על החוף, ליד גלי הים?", "answer": "2"}
+{"sample_id": "coun_30", "image": "images/2403031.jpg", "category": "counting", "language": "he", "question": "באזור החניה, על האופנוע הלבן הקרוב לחזית הפריים יש כמה תיקים צדדיים תלויים?", "answer": "2"}
+{"sample_id": "coun_31", "image": "images/2315544.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, על מדף הספרים הלבן מתחת לטלוויזיה שעל הקיר, בשכבה האמצעית שעליו ספרים המוצבים זקופים — כמה ספרים יש?", "answer": "9"}
+{"sample_id": "coun_32", "image": "images/2360697.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה פרוסות בייקון או בשר חזיר נמצאות מעל הטוסט שעל הצלחת?", "answer": "4"}
+{"sample_id": "coun_33", "image": "images/2324859.jpg", "category": "counting", "language": "he", "question": "בתמונה, על השולחן העגול שלפני הזקן כמה כוסות וצלחות יש?", "answer": "2"}
+{"sample_id": "coun_34", "image": "images/61561.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה מסגרות תמונה ועיטור בצורת לב תלויים על הקיר הכחול יחד?", "answer": "2"}
+{"sample_id": "coun_35", "image": "images/2343700.jpg", "category": "counting", "language": "he", "question": "בתמונה הזאת, כמה פילים מרימים את רגליהם הקדמיות, כאילו הם מתנגחים זה בזה?", "answer": "2"}
+{"sample_id": "coun_36", "image": "images/2327606.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, כמה פילים אוכלים עשב ליד הכביש?", "answer": "2"}
+{"sample_id": "coun_37", "image": "images/2352013.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה ג'ירפות מופיעות במלואן בתוך הפריים?", "answer": "1"}
+{"sample_id": "coun_38", "image": "images/2348237.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, סביב הברבורים הלבנים הבוגרים שבמים אפשר לראות בבירור סך הכול כמה ברבורים קטנים אפורים?", "answer": "4"}
+{"sample_id": "coun_39", "image": "images/2361319.jpg", "category": "counting", "language": "he", "question": "בחדר הזה, לכמה כיסאות יש מיקום ליד החלון?", "answer": "4"}
+{"sample_id": "coun_40", "image": "images/2326279.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה ג’ירפות נמצאות בין שני עמודי עץ אנכיים?", "answer": "1"}
+{"sample_id": "coun_41", "image": "images/2365667.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, על שולחן העץ האדום יש, מלבד פסלון דמוי סוס שהיד נוגעת בו, כמה עוד פריטים אחרים?", "answer": "0"}
+{"sample_id": "coun_42", "image": "images/2358987.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, כמה גורי פילים רואים מתחת לגופו של הפיל העומד?", "answer": "1"}
+{"sample_id": "coun_43", "image": "images/2351034.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, כמה זברות נמצאות ליד תעלת המים כשהן מורידות את הראש כדי לשתות מים?", "answer": "4"}
+{"sample_id": "coun_44", "image": "images/2405805.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה חתולים יושבים על רצפת העץ?", "answer": "1"}
+{"sample_id": "coun_45", "image": "images/2319161.jpg", "category": "counting", "language": "he", "question": "בתוך מסגרת הפסל עם השעון, כמה פסלי דמות אדם עומדים על הפלטפורמה שבתחתית?", "answer": "3"}
+{"sample_id": "coun_46", "image": "images/2318876.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה כלבים נמצאים על המיטה כשהם פונים עם החזית שלהם אל המצלמה?", "answer": "2"}
+{"sample_id": "coun_47", "image": "images/2382658.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, לכמה חלקים חותכים את הכריך המונח על נייר הסעודה הלבן?", "answer": "2"}
+{"sample_id": "coun_48", "image": "images/2338491.jpg", "category": "counting", "language": "he", "question": "בין השחקנים שלובשים חולצה כחולה מול השער, לכמה מהם מספר הגב נראה בבירור?", "answer": "1"}
+{"sample_id": "coun_49", "image": "images/2328282.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, על משטח הכיריים מלבד קומקום המים, כמה סלילי חימום חשמליים אפשר לראות בבירור?", "answer": "3"}
+{"sample_id": "coun_50", "image": "images/2409092.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה כלבים נמצאים ליד האדם שיושב על הספסל, שגם הם עומדים על הספסל?", "answer": "1"}
+{"sample_id": "coun_51", "image": "images/1592915.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, על הקרקע מול המשאית הלבנה החונה ליד קיר הלבנים מונחים כמה פקקי תנועה כתומים?", "answer": "2"}
+{"sample_id": "coun_52", "image": "images/2327290.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, על השולחן שעליו מונחת מפת שולחן משובצת אדום-לבן, מאחור ומימין לתבנית הפיצה, נערמים כמה כוסות לבנות?", "answer": "4"}
+{"sample_id": "coun_53", "image": "images/2410222.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה פילים יש שנוגעים זה בזה באף כשהם עומדים לפני הסלע?", "answer": "2"}
+{"sample_id": "coun_54", "image": "images/2391767.jpg", "category": "counting", "language": "he", "question": "בתמונה, על עמוד התמרור שבצד הדרך אפשר לראות כמה לוחות שעליהם כתוב שם של רחוב?", "answer": "2"}
+{"sample_id": "coun_55", "image": "images/2403543.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, בצד גוף המטוס ניתן לראות כמה חלונות עגולים?", "answer": "4"}
+{"sample_id": "coun_56", "image": "images/2323533.jpg", "category": "counting", "language": "he", "question": "בתמונה הזו, כמה זברות שנמנעות ראשן ומאכילות מערימת עשב שעל הקרקע?", "answer": "3"}
+{"sample_id": "coun_57", "image": "images/2409207.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה כבשים יש שהחוטים של גדר התיל חוצים את גופם?", "answer": "3"}
+{"sample_id": "coun_58", "image": "images/2363058.jpg", "category": "counting", "language": "he", "question": "בתמונה, על הדשא ועל יד רגלי הדמויות—כמה נעלי שלג אפשר לראות בסך הכול?", "answer": "2"}
+{"sample_id": "coun_59", "image": "images/2404835.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה סוסים יש בחזית, כשהם הולכים על הכביש לקראת המצלמה?", "answer": "5"}
+{"sample_id": "coun_60", "image": "images/2328897.jpg", "category": "counting", "language": "he", "question": "בתמונה זו, כמה חתיכות של בייקון נראות בבירור על הדונאט שבצלחת?", "answer": "5"}
